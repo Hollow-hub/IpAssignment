@@ -47,7 +47,3 @@ For this application, SQLite was chosen for the following reasons:
 
 - **Lightweight**: Requires minimal setup and maintenance.
 - **Ease of Use**: Integrates seamlessly with .NET applications without needing a separate database server.
-- **Performance**: Provides sufficient performance for the scale of this application.
-- **Development Speed**: Simplifies the development process, enabling rapid prototyping and testing.
-
-These benefits make SQLite an excellent choice for this application.
